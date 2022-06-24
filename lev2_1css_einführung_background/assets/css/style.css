@@ -1,0 +1,43 @@
+main h1 {
+    font-size: 48px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px grey;
+    background-color: gray;
+    color: white;
+}
+
+main p {
+    text-indent: 100px;
+    word-spacing: 30px;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+article p {
+    text-indent: 90px;
+    word-spacing: 50px;
+
+
+}
+
+section {
+    letter-spacing: 5px;
+    text-shadow: 2px 2px grey;
+}
+
+div {
+    line-height: normal;
+    background-color: lightgray;
+}
+
+div {
+    line-height: normal;
+    background-color: lightgray;
+}
+
+aside {
+
+    line-height: normal;
+    background-color: black;
+    color: white;
+
+}

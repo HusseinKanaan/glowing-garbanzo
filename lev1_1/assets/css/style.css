@@ -1,0 +1,22 @@
+h2 {
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    ;
+}
+
+p {
+    color: #333;
+    font-size: 20px;
+}
+
+ul li {
+    text-decoration: overline;
+}
+
+ul li~li {
+    text-decoration:underline;
+}
+
+ul li> li {
+    text-decoration: line-through;
+}
